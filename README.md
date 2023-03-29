@@ -7,12 +7,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Ambitious;Life-Long+Learner&color=cyan&center=true" />
 </div>
     
-    <h2>A passionate, aspiring Full Stack Web Developer
-skilled in MERN stack from Masai School. Having
-the ability to develop websites using JavaScript,
-React, Node.js, Express.js, and MongoDB. etc.
-Looking forward to launching a career as a MERN
-developer</h2>
+    <h2 align="center">A passionate, aspiring Full Stack Web Developer skilled in MERN stack from Masai School. Having the ability to develop websites using JavaScript, React, Node.js, Express.js, and MongoDB. etc. Looking forward to launching a career as a MERN developer</h2>
+    
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 # 💫 About Me:

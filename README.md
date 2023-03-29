@@ -17,10 +17,10 @@
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1Wb7LAZaolCS2-BaO5sKt6zXs_YV1IuJS/view?usp=share_link)<br>
 <br>💻 Know more about me Portfilio(https://vishal-gupta07.github.io/)<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/Vishal-Gupta007?tab=repositories)<br>
+<br>💻 All of my projects are available at My [Github Repositories](https://github.com/Vishal-Gupta07?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me vishalg09821@gmail.com<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal-Gupta007&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal-Gupta007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal-Gupta07&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal-Gupta07" /> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📱 Connect with me</h2>
